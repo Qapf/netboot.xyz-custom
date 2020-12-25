@@ -5,6 +5,7 @@
 
 :start
 echo Hello world!
+chain k3os.ipxe
 sleep 10
 goto custom_exit
 
